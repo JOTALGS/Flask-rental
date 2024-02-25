@@ -1,0 +1,168 @@
+body {
+  background: #fafafa;
+  margin-top: 5rem;
+  color: #00264d; 
+  text-align: center;
+  font-family: 'Manjari', sans-serif;
+
+}
+
+h1, h2, h3, h4
+{
+  width: 100%;
+
+}
+
+#navbarToggle
+{
+  margin-top:20px;
+}
+
+#noOfItems
+{
+  margin-left: -20px
+}
+
+.card
+{
+  width: 25rem; 
+  height: 40rem;
+  margin-bottom: 20px;
+}
+
+.carousel-inner
+{
+  height: 500px
+}
+
+.form
+{
+  margin: auto; 
+  width: 60%; 
+  padding: 50px
+}
+
+main {
+
+  color: #00264d; 
+  text-align: center;
+  font-family: 'Manjari', sans-serif;
+}
+
+header
+{
+  height: 90px;  
+  border-bottom: 1px solid lightgrey; 
+}
+
+
+
+#logo
+{
+  height:50px;
+}
+
+#navbarToggle
+{
+  font-family: 'Manjari', sans-serif;
+  font-size:   18px;
+}
+
+
+
+.glyphicon
+{
+  color: #00264d; 
+  height: 10px;
+  font-size: 20px;
+}
+
+.glyphicon:hover
+{
+  color: #43b9f0; 
+}
+
+
+.site-header .navbar-nav .nav-link {
+  color: #00264d;
+}
+
+.site-header .navbar-nav .nav-link:hover {
+  color: #43b9f0;
+}
+
+.site-header .navbar-nav .nav-link.active {
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+
+.account-heading {
+  font-size: 2.5rem;
+}
+
+
+.nav-item
+{
+  margin-right: 20px
+}
+
+footer {
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  background-color: #f2f2f2;
+  font-family: 'Manjari', sans-serif;
+  margin-top: 40px;
+  color: #00264d
+}
+
+.nav-link
+{
+  display: inline;
+}
+
+
+.container-top {
+  max-width: 1000px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  border-color: #007bff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.search-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.search-bar select {
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  flex-grow: 1;
+}
+.search-bar button {
+  padding: 8px 15px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.search-bar select {
+  width: 100px;
+}
